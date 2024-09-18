@@ -3,7 +3,7 @@
 I'm a passionate developer with a background in various technologies. Here’s a little about me:
 
 ## 💻 Technologies I've worked with:
-- **Languages**: C#, SQL, Java (my favorite!), JavaScript, TypeScript
+- **Languages**: C#, SQL, Java (my favorite!), JavaScript
 - **Frameworks & Tools**: ASP.NET, Core.NET, PReact
 - **IDEs**: Visual Studio, Visual Studio Code, Android Studio
 - **Web Development**: HTML, CSS, JavaScript
